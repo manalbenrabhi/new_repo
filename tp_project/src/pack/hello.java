@@ -6,7 +6,7 @@ public class hello {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("New project");
-		System.out.println("Working on dev branch");
+		System.out.println("End of project");
 
 	}
 
