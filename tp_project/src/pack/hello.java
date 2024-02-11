@@ -11,6 +11,8 @@ public class hello {
 		System.out.println("This line is written before merging");
 		System.out.println("Commit 1 before rebase");
 		System.out.println("Commit 2 before rebase");
+		System.out.println("Commiting in main before rebase");
+		
 
 
 	}
