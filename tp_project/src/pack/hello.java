@@ -10,10 +10,6 @@ public class hello {
 		System.out.println("Changing two");
 		System.out.println("This line is written before merging");
 		System.out.println("Another line efore rebasing");
-		
-		
-
-
 	}
 
 }
